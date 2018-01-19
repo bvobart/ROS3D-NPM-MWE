@@ -1,0 +1,22 @@
+{
+  "name": "ros3dnpmissue",
+  "version": "1.0.0",
+  "description": "MWE to display issue in NPM distro of ROS3D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvobart/ROS3D-NPM-MWE.git"
+  },
+  "author": "Bart van Oort",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvobart/ROS3D-NPM-MWE/issues"
+  },
+  "homepage": "https://github.com/bvobart/ROS3D-NPM-MWE#readme",
+  "dependencies": {
+    "ros3d": "^0.18.0"
+  }
+}
